@@ -1,4 +1,4 @@
-# PythonBackBelt.com - Project descripton
+# PythonBackBelt.com
 Python Black Belt - www.pythonblackbelt.com - Learning python having fun.
 
 PythonBlackBelt.com is an open-source system written in Python with Django (high-level Python Web framework).
